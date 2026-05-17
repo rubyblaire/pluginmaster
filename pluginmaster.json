@@ -77,7 +77,7 @@
     "InternalName": "MakePlaceAssistant",
     "AssemblyVersion": "1.1.0.0",
     "TestingAssemblyVersion": "1.1.0.0",
-    "Description": "A MakePlace shopping-list companion for market board runs, inventory tracking, purchase progress, and cleaner furnishing workflows.",
+    "Description": "A MakePlace shopping-list companion for market board runs, inventory tracking, and Patch 7.5 consolidated dye handling.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
@@ -86,13 +86,16 @@
     "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "DownloadLinkTesting": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
-    "Changelog": "Updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation.",
+    "IconUrl": "https://raw.githubusercontent.com/rubyblaire/mpassist/main/images/icon.png",
     "Tags": [
       "MakePlace",
       "Housing",
       "Shopping",
-      "Marketboard",
-      "Utility"
-    ]
+      "Inventory",
+      "Market Board",
+      "Dyes"
+    ],
+    "Changelog": "Updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation.",
+    "TestingChangelog": "Testing build updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation."
   }
 ]
