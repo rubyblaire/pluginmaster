@@ -16,6 +16,7 @@ Then in Dalamud:
 4. Paste the URL into **Custom Plugin Repositories**
 5. Click **Save**
 6. Search for the plugin you want
+
 *Please disable and delete the below plugins from their individual repos before using this collective.*
 
 ## Included Plugins
